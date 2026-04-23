@@ -6,6 +6,5 @@
   <img
     alt="Isometric GitHub contribution chart"
     src="https://raw.githubusercontent.com/colincode0/github-readme/main/output/contribs-light.svg"
-    width="100%"
   />
 </picture>
